@@ -1,0 +1,1 @@
+print("çalıştırıldı\nmade by ömer c")
